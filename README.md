@@ -9,7 +9,7 @@ In addition to the attention model, we use dilated residual dense block (DRDB) t
 
 ## Code
 
-Main code in the folder code
+Main code in the folder code. The training and testing datasets can be find here. “Deep high dynamic range imaging of dynamic scenes,” ACM Transactions on Graphics (Proceedings of SIGGRAPH 2017), vol. 36, no. 4, 2017.
 
 ## The Results
 
